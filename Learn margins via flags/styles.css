@@ -1,0 +1,24 @@
+body{
+    /* margin : 8px; */
+    /* automatically does this but for some reason it was not appiled on brave! */
+}
+.red {
+    background: #c71226;
+    height: 100px;
+    /* margin-top: 10px;
+    margin-left:10px;
+    margin-right:10px;
+    margin-bottom:100px; */
+}
+
+.blue {
+    background: #0d1b88;
+    height: 100px;
+    /* margin-top: 20px;
+    margin-bottom : 20px; */
+}
+
+.green {
+    background: #397327;
+    height: 100px;
+}
