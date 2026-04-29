@@ -1,0 +1,43 @@
+body {
+    margin: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.profile-img{
+    width:150px;
+    height:150px;
+}
+.dotted-blue-border{
+    border:1px dotted blue;
+    
+}
+.card{
+    
+    width: 400px;
+    margin: 10px auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    
+    /* 
+    Challenge:
+    Add colors to the card according to the design.
+    black - #2b2839 (the text color)
+    blue - #ddebf8
+    purple - #d8cefe
+    */
+    color: #0b0a0e;
+    background-color: #ddebf8;
+    border-bottom: 10px solid #d8cefe ;
+    
+}
+
+
+
+.raj-info{
+    margin-left: 20px;
+}
+
+.text-align-center{
+    text-align: center;
+}
