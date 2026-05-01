@@ -1,0 +1,65 @@
+/*
+Challenge:
+1. Center the text and button
+2. Style the button according to the design.
+   Use a class to select the button.
+*/
+.heading{
+    text-align: center;
+}
+.apply-btn{
+    margin:0 auto;
+    display: block;
+    padding: 5px 10px;
+    border-radius: 0px;
+    border: 0px;
+    background-color: white;
+    color:#82a5ca;
+    font-weight: 800;
+}
+
+body {
+    font-family: "Orbitron", sans-serif;
+    
+} 
+
+#underline{
+   border-bottom: 4px solid white;
+   padding-bottom: 1px;
+   
+}
+
+#logo{
+    width:100px;
+    display: block;
+    margin: 0 auto;
+} 
+
+.hero-section{
+    color: #82a5ca;
+    background-image: url("images/galaxy.webp");
+    background-size: cover;
+    font-family: "Orbitron", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    height:80%;
+   
+}
+#content{
+    text-shadow: 0px 0px 4px black;
+}
+.TC{
+    text-align: center;
+    padding-top: 20px;
+    color:#82a5ca;
+}
+
+
+
+.orbitron-unique {
+  font-family: "Orbitron", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}

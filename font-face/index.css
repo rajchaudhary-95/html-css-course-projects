@@ -1,0 +1,9 @@
+@font-face {
+    src: url("Brotheric Regular Demo.otf");
+    font-family: Corleone;
+}
+
+h1 {
+    font-family: Corleone;
+    text-align: center;
+}
